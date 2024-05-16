@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
 
   s.add_dependency "jquery-rails",  ">= 2.0"
   s.add_dependency "railties",      ">= 3.2"
-  s.add_dependency "thor",          "~> 0.14"
+  s.add_dependency "thor",          ">= 0.14"
 
   s.add_development_dependency "compass-h5bp", "~> 0.1.0"
 
